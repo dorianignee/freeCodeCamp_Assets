@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1E1E1E;
+  color: #D4D4D4;
+}
+
+.codePane {
+  height: 100vh;
+}
+
+textarea {
+  height: 100%;
+  width: 100%;
+  background-color: #252526;
+  color: #D4D4D4;
+  padding: 20px;
+  resize: none;
+}
+
+#preview {
+  padding: 20px;
+  height: 100%;
+  overflow: auto;
+}
+
+a {
+  color: #3794FF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div[role=Resizer] {
+  background-color: lightgrey;
+  border-style: outset;
+}
+
+code {
+  color: #D7BA7D
+}
+
+pre {
+  background-color: #161616;
+  border: 1px solid #303031;
+  padding: 1em;
+  border-radius: 2px;
+  width: fit-content;
+  height: fit-content;
+}
+
+pre code {
+  color: #D4D4D4;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.4em 1em;
+}
+
+thead {
+  border-bottom: 1px solid #B9B9B9;
+}
+
+tr, h1, h2 {
+  border-bottom: 1px solid #474747;
+}
+
+tr:last-of-type {
+  border-bottom: none;
+}
+
+blockquote {
+  background-color: #282828;
+  border-left: 6px solid #135079;
+  border-radius: 2px;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding: 0.4em 1em;
+}
+
+blockquote p {
+  margin: 0
+}
