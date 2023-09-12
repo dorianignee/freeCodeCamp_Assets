@@ -9,7 +9,7 @@
 /coverage
 
 # production (commented out, because Website will be hosted on GitHub)
-# /build
+ /build
 
 # misc
 .DS_Store
