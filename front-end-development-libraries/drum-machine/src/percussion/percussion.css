@@ -1,0 +1,32 @@
+.percussion {
+    background-color: hsl(240deg, 10%, 15%);
+    width: 100%;
+}
+
+.drum-pad {
+    background-color: hsl(240deg, 10%, 20%);
+    border: 2px solid lightgray;
+    display: flex inline;
+    color: white;
+    flex-flow: column nowrap;
+    align-items: center;
+    flex-basis: 30%;
+    width: 30%;
+    font-size: xx-large;
+    margin: 1.5%
+}
+
+.drum-pad .description {
+    font-size: medium;
+}
+
+.active {
+    animation: activeLED 200ms ease-in;
+}
+
+@keyframes activeLED {
+    from {
+        border-color: red;
+        color: red
+    }
+}

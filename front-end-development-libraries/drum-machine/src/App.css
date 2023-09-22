@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  padding: 0;
+  background-color: hsl(240deg, 10%, 15%);
+}
+
+.brand {
+  background-image: linear-gradient( 90deg, red, blue);
+  font-size: xx-large;
+  font-style: oblique;
+}
