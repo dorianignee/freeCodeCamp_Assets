@@ -1,0 +1,25 @@
+.toggleButton {
+    padding: 5px;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 4px;
+    background: linear-gradient(to bottom, hsl(240deg, 10%, 20%), hsl(240deg, 10%, 30%), hsl(240deg, 10%, 20%));
+    user-select: none;
+}
+
+.caption {
+    margin: 5px;
+    display: inline;
+    vertical-align: middle;
+}
+
+.led {
+    border-radius: 50%;
+    filter: brightness(40%);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.led.on {
+    filter: none;
+}

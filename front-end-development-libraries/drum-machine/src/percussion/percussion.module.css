@@ -1,22 +1,27 @@
 .percussion {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     background-color: hsl(240deg, 10%, 15%);
     width: 100%;
+    margin: 10px;
 }
 
-.drum-pad {
+.drumpad {
     background-color: hsl(240deg, 10%, 20%);
     border: 2px solid lightgray;
-    display: flex inline;
+    display: grid;
+    grid-template-rows: auto auto;
+    user-select: none;
+
     color: white;
-    flex-flow: column nowrap;
     align-items: center;
-    flex-basis: 30%;
-    width: 30%;
+    text-align: center;
+
     font-size: xx-large;
     margin: 1.5%
-}
+} 
 
-.drum-pad .description {
+.drumpad .description {
     font-size: medium;
 }
 

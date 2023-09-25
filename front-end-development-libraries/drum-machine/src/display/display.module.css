@@ -20,4 +20,5 @@
     box-shadow: inset 6px 6px 10px 0 rgba(0, 0, 0, 0.2),
     inset -3px -3px 5px 0 rgba(255, 255, 255, 0.5);
     border: 2px solid black;
+    user-select: none;
 }

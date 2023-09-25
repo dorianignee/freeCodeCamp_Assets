@@ -1,7 +1,7 @@
 import { useSelector, useDispatch } from 'react-redux'
-import { play } from '../store/drumSlice';
 import { setText } from '../store/displaySlice';
-import { useRef, useState } from 'react';
+import { useCallback, useRef, useState, useEffect } from 'react';
+import styles from './percussion.module.css';
 
 export default function Drum({button}) {    
     const drumData = useSelector(state => state.drums.find(drum=>drum.button === button));
@@ -12,28 +12,36 @@ export default function Drum({button}) {
     const [ active, setActive ] = useState(false);
     const [ localClicks, setLocalClicks ] = useState(0);
 
-    // play sound if clicked or on keypress
-    if (clicks !== localClicks) {
-        setLocalClicks(clicks);
+    const play = useCallback(() => {
         if (power) {
             setActive(true);
-            dispatch(setText(drumData.name));
             if (audioRef.current !== undefined) {
                 audioRef.current.currentTime = 0;
                 audioRef.current.play();
             }
+            dispatch(setText(drumData.name));
         }
-    }
+    }, [dispatch, drumData.name, power]);
+
+    useEffect(() => {
+        const handleKeyDown = event => {
+            if (event.key.toUpperCase() === drumData.button)
+                play();
+        }
+
+        window.addEventListener("keydown", handleKeyDown);
+        return () => window.removeEventListener("keydown", handleKeyDown);
+    }, [drumData.button, play]);
 
     return (
         <div 
-            className={`drum-pad${active?" active":""}`} 
+            className={`drum-pad ${styles.drumpad} ${active ? styles.active :""}`} 
             id={drumData.name} 
-            onClick={()=>dispatch(play(drumData.button))} 
+            onClick={play} 
             onAnimationEnd={() => setActive(false)}
             tabIndex={-1}>
             <p>{drumData.button}</p>
-            <p className="description">{drumData.name}</p>
+            {/* <p className={styles.description}>{drumData.name}</p> */}
             <audio className="clip" src={drumData.audio} id={drumData.button} ref={audioRef} preload='auto'>
                 <source src={drumData.audio} type="audio/mpeg"/>
             </audio>

@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.device {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 10px;
+  border: 2px solid black;
+  background-color: hsl(240deg, 10%, 15%);
+  padding: 5px;
+
+  width: 1000px;
+  max-width: 1000px;
+}
+
+.container {
+  padding: 0;
+  background-color: hsl(240deg, 10%, 15%);
+}
+
+.brand {
+  background: -webkit-linear-gradient(45deg, hsl(240deg, 40%, 70%), silver);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: xx-large;
+  font-style: oblique;
+  font-weight: bolder;
+  text-align: center;
+  margin: 5px;
+}
+
+.brandBg {
+  background: repeating-linear-gradient(hsl(240deg, 10%, 15%) 1px, hsl(240deg, 10%, 25%) 3px);
+  border: 2px solid hsl(240deg, 10%, 35%);
+}
+
+.powerbutton {
+  display: flex;
+  color: white;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.auxiliary {
+  display: grid;
+  grid-template-rows: auto min-content;
+  margin: 10px;
+}
+
+.edby {
+  margin-left: 5px;
+}
+
+.edby a {
+  color: #3794FF;
+  text-decoration: none;
+}
+
+.edby a:hover {
+  text-decoration: underline;
+}

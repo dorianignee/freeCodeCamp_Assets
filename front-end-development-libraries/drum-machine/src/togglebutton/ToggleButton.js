@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import './togglebutton.css';
+import styles from './togglebutton.module.css';
+import LED from "./LED";
 
 export default function ToggleButton({caption, initialState = true, onToggle = null}) {
     const [ toggled, setToggled ] = useState(initialState);
@@ -13,8 +13,8 @@ export default function ToggleButton({caption, initialState = true, onToggle = n
     }
 
     return (
-        <div className="toggleButton" onClick={toggle}>
-            <p><span className={`led${toggled?" on":""}`}>&bull;</span>{caption}</p>
+        <div className={styles.toggleButton} onClick={toggle}>
+            <LED on={toggled} size="10px"/><span className={styles.caption}>{caption}</span>
         </div>
     )
 }

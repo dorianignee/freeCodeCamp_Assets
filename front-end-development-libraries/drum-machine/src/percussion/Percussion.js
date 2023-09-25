@@ -1,19 +1,18 @@
-import { Container } from 'react-bootstrap'
 import Drum from './Drum'
-import { useSelector } from 'react-redux';
-import './percussion.css'
+import { useSelector,  } from 'react-redux';
+import styles from './percussion.module.css'
 
 export default function Percussion() {
     const drums = useSelector(state => state.drums);
     
     return (
-        <Container className="percussion d-flex-row">
+        <div className={styles.percussion}>
             {drums.map(mapping => 
                 <Drum
                     key={mapping.button}
                     button={mapping.button}
                 />
             )}
-        </Container>
+        </div>
     )
 }
