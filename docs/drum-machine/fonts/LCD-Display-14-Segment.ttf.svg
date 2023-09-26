@@ -1,0 +1,1750 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090622 at Fri Feb 22 04:53:47 2019
+ By ffonts
+Copyright (c) 2015 Fredrick Brennan &#60;copypaste@kittens.ph&#62;
+
+Licensed under the SIL OFL 1.1 &#60;http://scripts.sil.org/OFL&#62;
+</metadata>
+<defs>
+<font id="LCD14" horiz-adv-x="718" >
+  <font-face 
+    font-family="LCD"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    x-height="400"
+    cap-height="800"
+    bbox="79 -170 754.34 1140"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0001-U+30FC"
+  />
+<missing-glyph 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name=".notdef" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name=".notdef" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name="uni0001" 
+ />
+    <glyph glyph-name="uni0002" 
+ />
+    <glyph glyph-name="uni0003" 
+ />
+    <glyph glyph-name="uni0004" 
+ />
+    <glyph glyph-name="uni0005" 
+ />
+    <glyph glyph-name="uni0006" 
+ />
+    <glyph glyph-name="uni0007" 
+ />
+    <glyph glyph-name="uni0008" 
+ />
+    <glyph glyph-name="uni0009" unicode="&#x9;" 
+ />
+    <glyph glyph-name="uni000A" unicode="&#xa;" 
+ />
+    <glyph glyph-name="uni000B" 
+ />
+    <glyph glyph-name="uni000C" 
+ />
+    <glyph glyph-name="uni000D" unicode="&#xd;" 
+ />
+    <glyph glyph-name="uni000E" 
+ />
+    <glyph glyph-name="uni000F" 
+ />
+    <glyph glyph-name="uni0010" 
+ />
+    <glyph glyph-name="uni0011" 
+ />
+    <glyph glyph-name="uni0012" 
+ />
+    <glyph glyph-name="uni0013" 
+ />
+    <glyph glyph-name="uni0014" 
+ />
+    <glyph glyph-name="uni0015" 
+ />
+    <glyph glyph-name="uni0016" 
+ />
+    <glyph glyph-name="uni0017" 
+ />
+    <glyph glyph-name="uni0018" 
+ />
+    <glyph glyph-name="uni0019" 
+ />
+    <glyph glyph-name="uni001A" 
+ />
+    <glyph glyph-name="uni001B" 
+ />
+    <glyph glyph-name="uni001C" 
+ />
+    <glyph glyph-name="uni001D" 
+ />
+    <glyph glyph-name="uni001E" 
+ />
+    <glyph glyph-name="uni001F" 
+ />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="exclam" unicode="!" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="quotedbl" unicode="&#x22;" 
+d="M79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="numbersign" unicode="#" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-400l-40 40zM159 360v-280h160v280h-160z" />
+    <glyph glyph-name="dollar" unicode="$" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l-40 40v280l40 40l40 40h400zM559 360h-160v-280h160v280zM159 440h160v280h-160v-280z" />
+    <glyph glyph-name="percent" unicode="%" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h-120l-40 40l-40 40v280l40 40l40 40h400zM559 360h-160v-280h160v280zM159 440h160v280h-160v-280zM319 280l-120 -200h120v200zM399 720v-200l120 200
+h-120z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM559 160v200l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h120l-120 200v80
+h40z" />
+    <glyph glyph-name="quotesingle" unicode="'" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="parenleft" unicode="(" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="parenright" unicode=")" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="asterisk" unicode="*" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="plus" unicode="+" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="comma" unicode="," 
+d="M199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="hyphen" unicode="-" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="period" unicode="." 
+d="M79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="slash" unicode="/" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="zero" unicode="0" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280
+l-40 -40z" />
+    <glyph glyph-name="one" unicode="1" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="two" unicode="2" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40z" />
+    <glyph glyph-name="three" unicode="3" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="four" unicode="4" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="five" unicode="5" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40z" />
+    <glyph glyph-name="six" unicode="6" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="seven" unicode="7" 
+d="M559 80l0.000976562 279.999l40 40l40 -40c-0.253906 -93.333 -2.11719 -186.666 -0.000976562 -279.999l-40 -40zM599.001 399.999l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="eight" unicode="8" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM359 400l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="nine" unicode="9" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="colon" unicode=":" horiz-adv-x="258" 
+d="M79 702c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 99c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" />
+    <glyph glyph-name="semicolon" unicode=";" 
+d="M199 80h-40v80l120 200h40v-80zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="less" unicode="&#x3c;" 
+d="M519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="equal" unicode="=" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="greater" unicode="&#x3e;" 
+d="M199 80h-40v80l120 200h40v-80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="question" unicode="?" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="at" unicode="@" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h120l-120 200v80h40l120 -200v200l40 40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="A" unicode="A" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="B" unicode="B" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="C" unicode="C" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="D" unicode="D" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l40 -40v-280h160v280zM599 400l-40 40v280h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="E" unicode="E" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="F" unicode="F" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="G" unicode="G" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160v280h-160l-40 40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="H" unicode="H" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="I" unicode="I" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="J" unicode="J" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40z" />
+    <glyph glyph-name="K" unicode="K" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="L" unicode="L" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="M" unicode="M" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="N" unicode="N" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="O" unicode="O" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="P" unicode="P" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Q" unicode="Q" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="R" unicode="R" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="S" unicode="S" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="T" unicode="T" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="U" unicode="U" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="V" unicode="V" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="W" unicode="W" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="X" unicode="X" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Y" unicode="Y" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Z" unicode="Z" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l-40 -40h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM159 440h160l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l40 40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="bracketleft" unicode="[" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l-40 40v280h-160v-280l-40 -40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="backslash" unicode="\" 
+d="M519 80l-120 200v80h40l120 -200v-80h-40zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="bracketright" unicode="]" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l40 -40v-280h160v280zM599 400l-40 40v280h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="asciicircum" unicode="^" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="underscore" unicode="_" 
+d="M399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="grave" unicode="`" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="a" unicode="a" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="b" unicode="b" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="c" unicode="c" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40z" />
+    <glyph glyph-name="d" unicode="d" 
+d="M159 440h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="e" unicode="e" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="f" unicode="f" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="g" unicode="g" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="h" unicode="h" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="i" unicode="i" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="j" unicode="j" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM599 40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="k" unicode="k" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="l" unicode="l" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="m" unicode="m" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280l40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="n" unicode="n" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM159 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="o" unicode="o" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="p" unicode="p" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="q" unicode="q" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="r" unicode="r" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="s" unicode="s" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="t" unicode="t" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="u" unicode="u" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="v" unicode="v" 
+d="M519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40z" />
+    <glyph glyph-name="w" unicode="w" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40z" />
+    <glyph glyph-name="x" unicode="x" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="y" unicode="y" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="z" unicode="z" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40z" />
+    <glyph glyph-name="braceleft" unicode="{" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="bar" unicode="|" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="braceright" unicode="}" 
+d="M559 360h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280z" />
+    <glyph glyph-name="asciitilde" unicode="~" 
+d="M79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40z" />
+    <glyph glyph-name="uni009E" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50
+s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" />
+    <glyph glyph-name="uni009F" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name="uni00A0" unicode="&#xa0;" 
+ />
+    <glyph glyph-name="exclamdown" unicode="&#xa1;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="cent" unicode="&#xa2;" 
+d="M79 80v280l40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-400l-40 40zM159 360v-280h160v280h-160z" />
+    <glyph glyph-name="sterling" unicode="&#xa3;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="currency" unicode="&#xa4;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h-120l-40 40
+l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="yen" unicode="&#xa5;" 
+d="M519 720h40v-80l-120 -200h120l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h120l-120 200v80h40l120 -200v-80l40 -40l40 40v80z" />
+    <glyph glyph-name="brokenbar" unicode="&#xa6;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="section" unicode="&#xa7;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h-120l-40 40l-40 40v280l40 40l40 40h400zM359 400l40 40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80zM359 400l-40 -40v-80l-120 -200h120l40 -40
+l40 40h120l-120 200v80zM559 360h-120l120 -200v200zM159 440h120l-120 200v-200z" />
+    <glyph glyph-name="dieresis" unicode="&#xa8;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" />
+    <glyph glyph-name="copyright" unicode="&#xa9;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280
+l-40 -40z" />
+    <glyph glyph-name="ordfeminine" unicode="&#xaa;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="guillemotleft" unicode="&#xab;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="logicalnot" unicode="&#xac;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni00AD" unicode="&#xad;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="registered" unicode="&#xae;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-160v-280h160v280z" />
+    <glyph glyph-name="macron" unicode="&#xaf;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="degree" unicode="&#xb0;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="plusminus" unicode="&#xb1;" 
+d="M399 360v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni00B2" unicode="&#xb2;" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40z" />
+    <glyph glyph-name="uni00B3" unicode="&#xb3;" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="acute" unicode="&#xb4;" 
+d="M359 994v-74l-160 -104v74z" />
+    <glyph glyph-name="mu" unicode="&#xb5;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="paragraph" unicode="&#xb6;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM159 440h120l-120 200v-200zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name="periodcentered" unicode="&#xb7;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="cedilla" unicode="&#xb8;" 
+d="M315 -12h77v-48l-110 -110l-39 39l72 72v47z" />
+    <glyph glyph-name="uni00B9" unicode="&#xb9;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="ordmasculine" unicode="&#xba;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="guillemotright" unicode="&#xbb;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM559 440v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40v-80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="onequarter" unicode="&#xbc;" horiz-adv-x="2156" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160l-40 40zM199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM559 80v280l40 40l40 -40v-280l-40 -40z
+M599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="onehalf" unicode="&#xbd;" horiz-adv-x="2156" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM199 80h-40v80l120 200h40v-80zM519 720h40v-80
+l-120 -200h-40v80zM559 80v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="threequarters" unicode="&#xbe;" horiz-adv-x="2156" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160l-40 40zM199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM159 440h160l40 -40l40 40h160v280h-160
+l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="questiondown" unicode="&#xbf;" 
+d="M79 80v280l40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="Agrave" unicode="&#xc0;" 
+d="M519 816v74l-160 104v-74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Aacute" unicode="&#xc1;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Acircumflex" unicode="&#xc2;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Atilde" unicode="&#xc3;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280
+h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Adieresis" unicode="&#xc4;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160
+l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Aring" unicode="&#xc5;" 
+d="M539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160
+v-280l-40 -40z" />
+    <glyph glyph-name="AE" unicode="&#xc6;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400zM159 440h160v280h-160v-280z" />
+    <glyph glyph-name="Ccedilla" unicode="&#xc7;" 
+d="M315 -12h77v-48l-110 -110l-39 39l72 72v47zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Egrave" unicode="&#xc8;" 
+d="M519 816v74l-160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Eacute" unicode="&#xc9;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Ecircumflex" unicode="&#xca;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40
+l40 40h400z" />
+    <glyph glyph-name="Edieresis" unicode="&#xcb;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40
+h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Igrave" unicode="&#xcc;" 
+d="M519 816v74l-160 104v-74zM559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="Iacute" unicode="&#xcd;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="Icircumflex" unicode="&#xce;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="Idieresis" unicode="&#xcf;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40
+v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="Eth" unicode="&#xd0;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM599 400l-40 40v280h-160v-280l-40 -40l40 -40v-280h160v280z" />
+    <glyph glyph-name="Ntilde" unicode="&#xd1;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM159 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="Ograve" unicode="&#xd2;" 
+d="M519 816v74l-160 104v-74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Oacute" unicode="&#xd3;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Ocircumflex" unicode="&#xd4;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280
+l-40 -40z" />
+    <glyph glyph-name="Otilde" unicode="&#xd5;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40
+l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Odieresis" unicode="&#xd6;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280
+l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="multiply" unicode="&#xd7;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Oslash" unicode="&#xd8;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 640
+l-120 -200h120v200z" />
+    <glyph glyph-name="Ugrave" unicode="&#xd9;" 
+d="M519 816v74l-160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Uacute" unicode="&#xda;" 
+d="M359 994v-74l-160 -104v74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Ucircumflex" unicode="&#xdb;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Udieresis" unicode="&#xdc;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160
+l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Yacute" unicode="&#xdd;" 
+d="M359 994v-74l-160 -104v74zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Thorn" unicode="&#xde;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="germandbls" unicode="&#xdf;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="agrave" unicode="&#xe0;" 
+d="M519 816v74l-160 104v-74zM159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="aacute" unicode="&#xe1;" 
+d="M359 994v-74l-160 -104v74zM159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="acircumflex" unicode="&#xe2;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160v-280h160l40 -40
+l40 40h160v280h-160z" />
+    <glyph glyph-name="atilde" unicode="&#xe3;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280
+l40 40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="adieresis" unicode="&#xe4;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40
+v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="aring" unicode="&#xe5;" 
+d="M539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40zM359 400l-40 -40h-160
+v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="ae" unicode="&#xe6;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400zM159 440h160v280h-160v-280z" />
+    <glyph glyph-name="ccedilla" unicode="&#xe7;" 
+d="M320.5 5.2666h77v-48l-110 -110l-39 39l72 72v47zM399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40z" />
+    <glyph glyph-name="egrave" unicode="&#xe8;" 
+d="M519 816v74l-160 104v-74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="eacute" unicode="&#xe9;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="ecircumflex" unicode="&#xea;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40
+h-400l-40 40z" />
+    <glyph glyph-name="edieresis" unicode="&#xeb;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160
+l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="igrave" unicode="&#xec;" 
+d="M519 816v74l-160 104v-74zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="iacute" unicode="&#xed;" 
+d="M359 994v-74l-160 -104v74zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="icircumflex" unicode="&#xee;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="idieresis" unicode="&#xef;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="eth" unicode="&#xf0;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM599 400l-40 40v280h-160v-280l-40 -40l40 -40v-280h160v280z" />
+    <glyph glyph-name="ntilde" unicode="&#xf1;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM159 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="ograve" unicode="&#xf2;" 
+d="M519 816v74l-160 104v-74zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="oacute" unicode="&#xf3;" 
+d="M359 994v-74l-160 -104v74zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="ocircumflex" unicode="&#xf4;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="otilde" unicode="&#xf5;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="odieresis" unicode="&#xf6;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40
+h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="divide" unicode="&#xf7;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="oslash" unicode="&#xf8;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 640
+l-120 -200h120v200z" />
+    <glyph glyph-name="ugrave" unicode="&#xf9;" 
+d="M519 816v74l-160 104v-74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="uacute" unicode="&#xfa;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="ucircumflex" unicode="&#xfb;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="udieresis" unicode="&#xfc;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="yacute" unicode="&#xfd;" 
+d="M359 994v-74l-160 -104v74zM79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="thorn" unicode="&#xfe;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="ydieresis" unicode="&#xff;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40
+h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="Ccircumflex" unicode="&#x108;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="ccircumflex" unicode="&#x109;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Dcroat" unicode="&#x110;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM599 400l-40 40v280h-160v-280l-40 -40l40 -40v-280h160v280z" />
+    <glyph glyph-name="dcroat" unicode="&#x111;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM599 400l-40 40v280h-160v-280l-40 -40l40 -40v-280h160v280z" />
+    <glyph glyph-name="Gcircumflex" unicode="&#x11c;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160v280h-160l-40 40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40
+l40 40h400z" />
+    <glyph glyph-name="gcircumflex" unicode="&#x11d;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160v280h-160l-40 40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40
+l40 40h400z" />
+    <glyph glyph-name="Hcircumflex" unicode="&#x124;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="hcircumflex" unicode="&#x125;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Itilde" unicode="&#x128;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="itilde" unicode="&#x129;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="dotlessi" unicode="&#x131;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Jcircumflex" unicode="&#x134;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40z" />
+    <glyph glyph-name="jcircumflex" unicode="&#x135;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40z" />
+    <glyph glyph-name="Lacute" unicode="&#x139;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="lacute" unicode="&#x13a;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Lslash" unicode="&#x141;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="lslash" unicode="&#x142;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Nacute" unicode="&#x143;" 
+d="M359 994v-74l-160 -104v74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="nacute" unicode="&#x144;" 
+d="M359 994v-74l-160 -104v74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="OE" unicode="&#x152;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l-40 40v280h-160v-280l-40 -40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="oe" unicode="&#x153;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l-40 40v280h-160v-280l-40 -40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Racute" unicode="&#x154;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="racute" unicode="&#x155;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Scircumflex" unicode="&#x15c;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40
+l40 40h400z" />
+    <glyph glyph-name="scircumflex" unicode="&#x15d;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40
+l40 40h400z" />
+    <glyph glyph-name="Scedilla" unicode="&#x15e;" 
+d="M315 -12h77v-48l-110 -110l-39 39l72 72v47zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40l40 40
+h400z" />
+    <glyph glyph-name="scedilla" unicode="&#x15f;" 
+d="M315 -12h77v-48l-110 -110l-39 39l72 72v47zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40l40 40
+h400z" />
+    <glyph glyph-name="Utilde" unicode="&#x168;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40
+l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="utilde" unicode="&#x169;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="Ubreve" unicode="&#x16c;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="ubreve" unicode="&#x16d;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="Uring" unicode="&#x16e;" 
+d="M539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uring" unicode="&#x16f;" 
+d="M539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="Wcircumflex" unicode="&#x174;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280
+l-40 -40z" />
+    <glyph glyph-name="wcircumflex" unicode="&#x175;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280
+l-40 -40z" />
+    <glyph glyph-name="Ycircumflex" unicode="&#x176;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="ycircumflex" unicode="&#x177;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280
+l-40 -40z" />
+    <glyph glyph-name="Ydieresis" unicode="&#x178;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40
+h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="Zacute" unicode="&#x179;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l-40 -40h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM159 440h160l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l40 40
+v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="zacute" unicode="&#x17a;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l-40 -40h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM159 440h160l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l40 40
+v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="circumflex" unicode="&#x2c6;" 
+d="M519 816v74l-160 104v-74l-160 -104v74l160 104v-74z" />
+    <glyph glyph-name="ring" unicode="&#x2da;" 
+d="M539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" />
+    <glyph glyph-name="gravecomb" unicode="&#x300;" 
+d="M519 816v74l-160 104v-74z" />
+    <glyph glyph-name="tildecomb" unicode="&#x303;" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74z" />
+    <glyph glyph-name="tonos" unicode="&#x384;" 
+d="M359 994v-74l-160 -104v74z" />
+    <glyph glyph-name="dieresistonos" unicode="&#x385;" 
+d="M359 994v-74l-160 -104v74zM79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" />
+    <glyph glyph-name="Alphatonos" unicode="&#x386;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Epsilontonos" unicode="&#x388;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Etatonos" unicode="&#x389;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Iotatonos" unicode="&#x38a;" 
+d="M359 994v-74l-160 -104v74zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Omicrontonos" unicode="&#x38c;" 
+d="M359 994v-74l-160 -104v74zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="Upsilontonos" unicode="&#x38e;" 
+d="M359 994v-74l-160 -104v74zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Omegatonos" unicode="&#x38f;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM519 80l-120 200v80h40l120 -200v200
+l40 40l40 -40v-280l-40 -40l-40 40h-40z" />
+    <glyph glyph-name="iotadieresistonos" unicode="&#x390;" 
+d="M359 994v-74l-160 -104v74zM79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Alpha" unicode="&#x391;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Beta" unicode="&#x392;" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="Gamma" unicode="&#x393;" 
+d="M159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0394" unicode="&#x394;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="Epsilon" unicode="&#x395;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="Zeta" unicode="&#x396;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l-40 -40h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM159 440h160l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l40 40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="Eta" unicode="&#x397;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Theta" unicode="&#x398;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM359 400l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="Iota" unicode="&#x399;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Kappa" unicode="&#x39a;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="Lambda" unicode="&#x39b;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40v-80zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="Mu" unicode="&#x39c;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="Nu" unicode="&#x39d;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="Xi" unicode="&#x39e;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="Omicron" unicode="&#x39f;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="Pi" unicode="&#x3a0;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Rho" unicode="&#x3a1;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="Sigma" unicode="&#x3a3;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40z" />
+    <glyph glyph-name="Tau" unicode="&#x3a4;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="Upsilon" unicode="&#x3a5;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Phi" unicode="&#x3a6;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="Chi" unicode="&#x3a7;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="Psi" unicode="&#x3a8;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni03A9" unicode="&#x3a9;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40
+l-40 40h-40z" />
+    <glyph glyph-name="Iotadieresis" unicode="&#x3aa;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="Upsilondieresis" unicode="&#x3ab;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z
+" />
+    <glyph glyph-name="alphatonos" unicode="&#x3ac;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="epsilontonos" unicode="&#x3ad;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="etatonos" unicode="&#x3ae;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="iotatonos" unicode="&#x3af;" 
+d="M359 994v-74l-160 -104v74zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="upsilondieresistonos" unicode="&#x3b0;" 
+d="M359 994v-74l-160 -104v74zM79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720
+l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="alpha" unicode="&#x3b1;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="beta" unicode="&#x3b2;" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="gamma" unicode="&#x3b3;" 
+d="M159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="delta" unicode="&#x3b4;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="epsilon" unicode="&#x3b5;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="zeta" unicode="&#x3b6;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l-40 -40h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM159 440h160l40 -40l-40 -40v-80l-120 -200h120l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l40 40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="eta" unicode="&#x3b7;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="theta" unicode="&#x3b8;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM359 400l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="iota" unicode="&#x3b9;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="kappa" unicode="&#x3ba;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="lambda" unicode="&#x3bb;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40v-80zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni03BC" unicode="&#x3bc;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="nu" unicode="&#x3bd;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="xi" unicode="&#x3be;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="omicron" unicode="&#x3bf;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="pi" unicode="&#x3c0;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="rho" unicode="&#x3c1;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="sigma1" unicode="&#x3c2;" 
+d="M315 -12h77v-48l-110 -110l-39 39l72 72v47zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="sigma" unicode="&#x3c3;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40z" />
+    <glyph glyph-name="tau" unicode="&#x3c4;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="upsilon" unicode="&#x3c5;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="phi" unicode="&#x3c6;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="chi" unicode="&#x3c7;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="psi" unicode="&#x3c8;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="omega" unicode="&#x3c9;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40
+l-40 40h-40z" />
+    <glyph glyph-name="iotadieresis" unicode="&#x3ca;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="upsilondieresis" unicode="&#x3cb;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z
+" />
+    <glyph glyph-name="omicrontonos" unicode="&#x3cc;" 
+d="M359 994v-74l-160 -104v74zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="upsilontonos" unicode="&#x3cd;" 
+d="M359 994v-74l-160 -104v74zM319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="omegatonos" unicode="&#x3ce;" 
+d="M359 994v-74l-160 -104v74zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM519 80l-120 200v80h40l120 -200v200
+l40 40l40 -40v-280l-40 -40l-40 40h-40z" />
+    <glyph glyph-name="uni0400" unicode="&#x400;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40
+h400z" />
+    <glyph glyph-name="uni0401" unicode="&#x401;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40
+h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0402" unicode="&#x402;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400zM559 360h-120l120 -200v200z" />
+    <glyph glyph-name="uni0403" unicode="&#x403;" 
+d="M359 994v-74l-160 -104v74zM159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0404" unicode="&#x404;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0405" unicode="&#x405;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0406" unicode="&#x406;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0407" unicode="&#x407;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0408" unicode="&#x408;" 
+d="M199 80h-40v80l120 200h40v-80zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0409" unicode="&#x409;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v200l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80l-40 40l-40 40h-40l-120 200v-200l-40 -40zM559 360h-120l120 -200v200z" />
+    <glyph glyph-name="uni040A" unicode="&#x40a;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40l-40 40v280h-160v-280l-40 -40zM559 360h-120l120 -200v200z" />
+    <glyph glyph-name="uni040B" unicode="&#x40b;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni040C" unicode="&#x40c;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni040D" unicode="&#x40d;" 
+d="M519 816v74l-160 104v-74zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni040E" unicode="&#x40e;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40zM519 816v74l-160 104v-74l-160 -104v74l160 104v-74z" />
+    <glyph glyph-name="uni040F" unicode="&#x40f;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="uni0410" unicode="&#x410;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0411" unicode="&#x411;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni0412" unicode="&#x412;" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="uni0413" unicode="&#x413;" 
+d="M159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0414" unicode="&#x414;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni0415" unicode="&#x415;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0416" unicode="&#x416;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0417" unicode="&#x417;" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni0418" unicode="&#x418;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni0419" unicode="&#x419;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280zM519 816v74l-160 104v-74l-160 -104v74
+l160 104v-74z" />
+    <glyph glyph-name="uni041A" unicode="&#x41a;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni041B" unicode="&#x41b;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40v-80zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni041C" unicode="&#x41c;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni041D" unicode="&#x41d;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni041E" unicode="&#x41e;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni041F" unicode="&#x41f;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0420" unicode="&#x420;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0421" unicode="&#x421;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0422" unicode="&#x422;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni0423" unicode="&#x423;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni0424" unicode="&#x424;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0425" unicode="&#x425;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni0426" unicode="&#x426;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni0427" unicode="&#x427;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni0428" unicode="&#x428;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0429" unicode="&#x429;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40h40l120 -200v200l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40zM399 80h120l-120 200
+v-200z" />
+    <glyph glyph-name="uni042A" unicode="&#x42a;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h120l-120 200v80h40l120 -200v-80l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni042B" unicode="&#x42b;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 -40v-280h160v280l40 40zM159 360v-280h160v280h-160z" />
+    <glyph glyph-name="uni042C" unicode="&#x42c;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni042D" unicode="&#x42d;" 
+d="M559 360h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280z" />
+    <glyph glyph-name="uni042E" unicode="&#x42e;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni042F" unicode="&#x42f;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="uni0430" unicode="&#x430;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0431" unicode="&#x431;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni0432" unicode="&#x432;" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="uni0433" unicode="&#x433;" 
+d="M159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0434" unicode="&#x434;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni0435" unicode="&#x435;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0436" unicode="&#x436;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0437" unicode="&#x437;" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni0438" unicode="&#x438;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni0439" unicode="&#x439;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280zM519 816v74l-160 104v-74l-160 -104v74
+l160 104v-74z" />
+    <glyph glyph-name="uni043A" unicode="&#x43a;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni043B" unicode="&#x43b;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40v-80zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni043C" unicode="&#x43c;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni043D" unicode="&#x43d;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni043E" unicode="&#x43e;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni043F" unicode="&#x43f;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0440" unicode="&#x440;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0441" unicode="&#x441;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0442" unicode="&#x442;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni0443" unicode="&#x443;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni0444" unicode="&#x444;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni0445" unicode="&#x445;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni0446" unicode="&#x446;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni0447" unicode="&#x447;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni0448" unicode="&#x448;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0449" unicode="&#x449;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40h40l120 -200v200l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40zM399 80h120l-120 200
+v-200z" />
+    <glyph glyph-name="uni044A" unicode="&#x44a;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 40h120l-120 200v80h40l120 -200v-80l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni044B" unicode="&#x44b;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l40 -40v-280h160v280l40 40zM159 360v-280h160v280h-160z" />
+    <glyph glyph-name="uni044C" unicode="&#x44c;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni044D" unicode="&#x44d;" 
+d="M559 360h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280z" />
+    <glyph glyph-name="uni044E" unicode="&#x44e;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni044F" unicode="&#x44f;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="uni0450" unicode="&#x450;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40
+h400z" />
+    <glyph glyph-name="uni0451" unicode="&#x451;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-160l-40 40l-40 -40
+h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0452" unicode="&#x452;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400zM559 360h-120l120 -200v200z" />
+    <glyph glyph-name="uni0453" unicode="&#x453;" 
+d="M359 994v-74l-160 -104v74zM159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0454" unicode="&#x454;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0455" unicode="&#x455;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni0456" unicode="&#x456;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0457" unicode="&#x457;" 
+d="M79 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM539 872c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0458" unicode="&#x458;" 
+d="M199 80h-40v80l120 200h40v-80zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0459" unicode="&#x459;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v200l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80l-40 40l-40 40h-40l-120 200v-200l-40 -40zM559 360h-120l120 -200v200z" />
+    <glyph glyph-name="uni045A" unicode="&#x45a;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40l-40 40v280h-160v-280l-40 -40zM559 360h-120l120 -200v200z" />
+    <glyph glyph-name="uni045B" unicode="&#x45b;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni045C" unicode="&#x45c;" 
+d="M359 994v-74l-160 -104v74zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni045D" unicode="&#x45d;" 
+d="M519 816v74l-160 104v-74zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni045E" unicode="&#x45e;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40zM519 816v74l-160 104v-74l-160 -104v74l160 104v-74z" />
+    <glyph glyph-name="uni045F" unicode="&#x45f;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="uni0460" unicode="&#x460;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0461" unicode="&#x461;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni0462" unicode="&#x462;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni0463" unicode="&#x463;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni0472" unicode="&#x472;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM359 400l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni0473" unicode="&#x473;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM359 400l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160zM359 400l-40 -40h-160v-280h160l40 -40l40 40h160v280h-160z" />
+    <glyph glyph-name="uni05D0" unicode="&#x5d0;" 
+d="M79 80v280l40 40l40 40h120l-120 200v80h40l120 -200v-80l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni05D1" unicode="&#x5d1;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160z" />
+    <glyph glyph-name="uni05D2" unicode="&#x5d2;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni05D3" unicode="&#x5d3;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni05D4" unicode="&#x5d4;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni05D5" unicode="&#x5d5;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni05D6" unicode="&#x5d6;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni05D7" unicode="&#x5d7;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni05D8" unicode="&#x5d8;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni05D9" unicode="&#x5d9;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni05DA" unicode="&#x5da;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni05DB" unicode="&#x5db;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni05DC" unicode="&#x5dc;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni05DD" unicode="&#x5dd;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni05DE" unicode="&#x5de;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40v-80zM199 720l120 -200v-80h-40l-120 200v80h40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni05DF" unicode="&#x5df;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni05E0" unicode="&#x5e0;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni05E1" unicode="&#x5e1;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni05E2" unicode="&#x5e2;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni05E3" unicode="&#x5e3;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni05E4" unicode="&#x5e4;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40l-40 40v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni05E5" unicode="&#x5e5;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM319 80v280l40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni05E6" unicode="&#x5e6;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM599 400l-40 -40h-120l120 -200v-80l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h120l-120 200v80l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni05E7" unicode="&#x5e7;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni05E8" unicode="&#x5e8;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni05E9" unicode="&#x5e9;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40z" />
+    <glyph glyph-name="uni05EA" unicode="&#x5ea;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM199 80h-40v80l120 200h40l40 40l40 -40v-280l-40 -40l-40 40v200zM599 400l-40 40v280h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni16A0" unicode="&#x16a0;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16A1" unicode="&#x16a1;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16A2" unicode="&#x16a2;" 
+d="M559 360v80l40 -40zM159 440v-80l-40 40zM159 160v-80v80zM559 80v80v-80zM399 720h-80l40 40zM559 640l-40 80h40v-80zM199 720l-40 -80v80h40zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40
+v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16A3" unicode="&#x16a3;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni16A4" unicode="&#x16a4;" 
+d="M559 360v80l40 -40zM159 440v-80l-40 40zM159 160v-80v80zM559 80v80v-80zM399 720h-80l40 40zM559 640l-40 80h40v-80zM199 720l-40 -80v80h40zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40
+v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16A5" unicode="&#x16a5;" 
+d="M559 360v80l40 -40zM159 440v-80l-40 40zM159 160v-80v80zM559 80v80v-80zM399 720h-80l40 40zM559 640l-40 80h40v-80zM199 720l-40 -80v80h40zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40
+v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16A6" unicode="&#x16a6;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni16A7" unicode="&#x16a7;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni16A8" unicode="&#x16a8;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="uni16A9" unicode="&#x16a9;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16AA" unicode="&#x16aa;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16AB" unicode="&#x16ab;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="uni16AC" unicode="&#x16ac;" 
+d="M319 80v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM359 400l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16AD" unicode="&#x16ad;" 
+d="M319 80v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16AE" unicode="&#x16ae;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h40l40 40z" />
+    <glyph glyph-name="uni16AF" unicode="&#x16af;" 
+d="M319 440v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h40l40 40z" />
+    <glyph glyph-name="uni16B0" unicode="&#x16b0;" 
+d="M319 440v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h40l40 40z" />
+    <glyph glyph-name="uni16B1" unicode="&#x16b1;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16B2" unicode="&#x16b2;" 
+d="M519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16B3" unicode="&#x16b3;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni16B4" unicode="&#x16b4;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16B5" unicode="&#x16b5;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16B6" unicode="&#x16b6;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16B7" unicode="&#x16b7;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni16B8" unicode="&#x16b8;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h120l-120 200v80h40l120 -200v-80l40 -40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40v-80z" />
+    <glyph glyph-name="uni16B9" unicode="&#x16b9;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16BA" unicode="&#x16ba;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="uni16BB" unicode="&#x16bb;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="uni16BC" unicode="&#x16bc;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni16BD" unicode="&#x16bd;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16BE" unicode="&#x16be;" 
+d="M319 80v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM359 400l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16BF" unicode="&#x16bf;" 
+d="M319 80v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16C0" unicode="&#x16c0;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40zM399 280v-200h120z
+M319 720h-120l120 -200v200z" />
+    <glyph glyph-name="uni16C1" unicode="&#x16c1;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16C2" unicode="&#x16c2;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16C3" unicode="&#x16c3;" 
+d="M79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80l-120 200v80h40l120 -200v200l40 40l40 -40v-280l-40 -40l-40 40h-40z" />
+    <glyph glyph-name="uni16C4" unicode="&#x16c4;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16C5" unicode="&#x16c5;" 
+d="M319 440v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h40l40 40z" />
+    <glyph glyph-name="uni16C6" unicode="&#x16c6;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h40l40 40z" />
+    <glyph glyph-name="uni16C7" unicode="&#x16c7;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM559 640l-120 -200h-40v80l120 200h40l40 40l40 -40v-280l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni16C8" unicode="&#x16c8;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16C9" unicode="&#x16c9;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-200z" />
+    <glyph glyph-name="uni16CA" unicode="&#x16ca;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16CB" unicode="&#x16cb;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16CC" unicode="&#x16cc;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16CD" unicode="&#x16cd;" 
+d="M79 80v280l40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160v280z" />
+    <glyph glyph-name="uni16CE" unicode="&#x16ce;" 
+d="M519 720h40v-80l-120 -200h-40l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-200z" />
+    <glyph glyph-name="uni16CF" unicode="&#x16cf;" 
+d="M199 80h-40v80l120 200h40l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni16D0" unicode="&#x16d0;" 
+d="M559 360v80l40 -40zM399 720h-80l40 40zM559 640l-40 80h40v-80zM199 720h-40h40zM559 80v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni16D1" unicode="&#x16d1;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40h-40l-120 200v-200l-40 -40zM319 720h-120l120 -200
+v200z" />
+    <glyph glyph-name="uni16D2" unicode="&#x16d2;" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="uni16D3" unicode="&#x16d3;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40z" />
+    <glyph glyph-name="uni16D4" unicode="&#x16d4;" 
+d="M559 360h-160v-280h160v280zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400l40 -40l40 -40v-280zM559 440v280h-160v-280h160z" />
+    <glyph glyph-name="uni16D5" unicode="&#x16d5;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni16D6" unicode="&#x16d6;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16D7" unicode="&#x16d7;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80
+l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16D8" unicode="&#x16d8;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-200z" />
+    <glyph glyph-name="uni16D9" unicode="&#x16d9;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40zM559 440v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l40 40h160z" />
+    <glyph glyph-name="uni16DA" unicode="&#x16da;" 
+d="M159 440v-80l-40 40zM159 160v-80v80zM399 720h-80l40 40zM559 720h-40h40zM199 720l-40 -80v80h40zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni16DB" unicode="&#x16db;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16DC" unicode="&#x16dc;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16DD" unicode="&#x16dd;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni16DE" unicode="&#x16de;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80
+l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16DF" unicode="&#x16df;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni16E0" unicode="&#x16e0;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni16E1" unicode="&#x16e1;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h120l-120 200v80h40l120 -200v200l40 40l40 -40v-200l120 200h40v-80l-120 -200h120l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni16E2" unicode="&#x16e2;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM559 640l-120 -200h-40v80l120 200h40l40 40l40 -40v-280l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni16E3" unicode="&#x16e3;" 
+d="M199 80h-40v80l120 200h40l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16E4" unicode="&#x16e4;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name="uni16E5" unicode="&#x16e5;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM599 400l-40 40v200l-120 -200h-40v80
+l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16E6" unicode="&#x16e6;" 
+d="M199 80h-40v80l120 200h40l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16E7" unicode="&#x16e7;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16E8" unicode="&#x16e8;" 
+d="M199 80h-40v80l120 200h40l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200zM519 720h40v-80l-120 -200h-40l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-200z" />
+    <glyph glyph-name="uni16E9" unicode="&#x16e9;" 
+d="M79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280h-160l-40 40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni16EA" unicode="&#x16ea;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16EB" unicode="&#x16eb;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16EE" unicode="&#x16ee;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v200l-120 -200h-40v80l120 200h40l40 40z" />
+    <glyph glyph-name="uni16EF" unicode="&#x16ef;" 
+d="M199 80h-40v80l120 200h40l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200zM519 720h40v-80l-120 -200h-40l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-200z" />
+    <glyph glyph-name="uni16F0" unicode="&#x16f0;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16F1" unicode="&#x16f1;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni16F2" unicode="&#x16f2;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40z" />
+    <glyph glyph-name="uni16F3" unicode="&#x16f3;" 
+d="M79 80v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160v-280l-40 -40l-40 40v280h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16F4" unicode="&#x16f4;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM599 400l-40 40v200l-120 -200h-40v80l120 200h40l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni16F5" unicode="&#x16f5;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni16F6" unicode="&#x16f6;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni16F7" unicode="&#x16f7;" 
+d="M399 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni16F8" unicode="&#x16f8;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="endash" unicode="&#x2013;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="emdash" unicode="&#x2014;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="quoteleft" unicode="&#x2018;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="quoteright" unicode="&#x2019;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="quotesinglbase" unicode="&#x201a;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="quotereversed" unicode="&#x201b;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="quotedblleft" unicode="&#x201c;" 
+d="M79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="quotedblright" unicode="&#x201d;" 
+d="M79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="quotedblbase" unicode="&#x201e;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="bullet" unicode="&#x2022;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name="ellipsis" unicode="&#x2026;" horiz-adv-x="2154" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="guilsinglleft" unicode="&#x2039;" 
+d="M519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="guilsinglright" unicode="&#x203a;" 
+d="M199 80h-40v80l120 200h40v-80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="fraction" unicode="&#x2044;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni2074" unicode="&#x2074;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="arrowleft" unicode="&#x2190;" 
+d="M519 80l-120 200v80l-40 40l40 40v80l120 200h40v-80l-120 -200h120l40 -40l-40 -40h-120l120 -200v-80h-40z" />
+    <glyph glyph-name="arrowup" unicode="&#x2191;" 
+d="M199 80h-40v80l120 200h40l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="arrowright" unicode="&#x2192;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h120l-120 200v80h40l120 -200v-80l40 -40l-40 -40v-80z" />
+    <glyph glyph-name="arrowdown" unicode="&#x2193;" 
+d="M519 720h40v-80l-120 -200h-40l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40l40 -40v-200z" />
+    <glyph glyph-name="minus" unicode="&#x2212;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2215" unicode="&#x2215;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="SF100000" unicode="&#x2500;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2501" unicode="&#x2501;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="SF110000" unicode="&#x2502;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni2503" unicode="&#x2503;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni2504" unicode="&#x2504;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2505" unicode="&#x2505;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2506" unicode="&#x2506;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni2507" unicode="&#x2507;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni2508" unicode="&#x2508;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2509" unicode="&#x2509;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni250A" unicode="&#x250a;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni250B" unicode="&#x250b;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="SF010000" unicode="&#x250c;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="uni250D" unicode="&#x250d;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="uni250E" unicode="&#x250e;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="uni250F" unicode="&#x250f;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="SF030000" unicode="&#x2510;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="uni2511" unicode="&#x2511;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="uni2512" unicode="&#x2512;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="uni2513" unicode="&#x2513;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="SF020000" unicode="&#x2514;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2515" unicode="&#x2515;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2516" unicode="&#x2516;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2517" unicode="&#x2517;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="SF040000" unicode="&#x2518;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni2519" unicode="&#x2519;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni251A" unicode="&#x251a;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni251B" unicode="&#x251b;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="SF080000" unicode="&#x251c;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni251D" unicode="&#x251d;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni251E" unicode="&#x251e;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni251F" unicode="&#x251f;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni2520" unicode="&#x2520;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni2521" unicode="&#x2521;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni2522" unicode="&#x2522;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni2523" unicode="&#x2523;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="SF090000" unicode="&#x2524;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni2525" unicode="&#x2525;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni2526" unicode="&#x2526;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni2527" unicode="&#x2527;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni2528" unicode="&#x2528;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni2529" unicode="&#x2529;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni252A" unicode="&#x252a;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="uni252B" unicode="&#x252b;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="SF060000" unicode="&#x252c;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni252D" unicode="&#x252d;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni252E" unicode="&#x252e;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni252F" unicode="&#x252f;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni2530" unicode="&#x2530;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni2531" unicode="&#x2531;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni2532" unicode="&#x2532;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni2533" unicode="&#x2533;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="SF070000" unicode="&#x2534;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2535" unicode="&#x2535;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2536" unicode="&#x2536;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2537" unicode="&#x2537;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2538" unicode="&#x2538;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2539" unicode="&#x2539;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni253A" unicode="&#x253a;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni253B" unicode="&#x253b;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="SF050000" unicode="&#x253c;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni253D" unicode="&#x253d;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni253E" unicode="&#x253e;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni253F" unicode="&#x253f;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2540" unicode="&#x2540;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2541" unicode="&#x2541;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2542" unicode="&#x2542;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2543" unicode="&#x2543;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2544" unicode="&#x2544;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2545" unicode="&#x2545;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2546" unicode="&#x2546;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2547" unicode="&#x2547;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2548" unicode="&#x2548;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni2549" unicode="&#x2549;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni254A" unicode="&#x254a;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni254B" unicode="&#x254b;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni254C" unicode="&#x254c;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni254D" unicode="&#x254d;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni254E" unicode="&#x254e;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni254F" unicode="&#x254f;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="SF430000" unicode="&#x2550;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="SF240000" unicode="&#x2551;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="SF510000" unicode="&#x2552;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="SF520000" unicode="&#x2553;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="SF390000" unicode="&#x2554;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="SF220000" unicode="&#x2555;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="SF210000" unicode="&#x2556;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="SF250000" unicode="&#x2557;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="SF500000" unicode="&#x2558;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="SF490000" unicode="&#x2559;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="SF380000" unicode="&#x255a;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="SF280000" unicode="&#x255b;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="SF270000" unicode="&#x255c;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="SF260000" unicode="&#x255d;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="SF360000" unicode="&#x255e;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="SF370000" unicode="&#x255f;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="SF420000" unicode="&#x2560;" 
+d="M319 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="SF190000" unicode="&#x2561;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="SF200000" unicode="&#x2562;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="SF230000" unicode="&#x2563;" 
+d="M319 360h-160l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40v280z" />
+    <glyph glyph-name="SF470000" unicode="&#x2564;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="SF480000" unicode="&#x2565;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="SF410000" unicode="&#x2566;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="SF450000" unicode="&#x2567;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="SF460000" unicode="&#x2568;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="SF400000" unicode="&#x2569;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="SF540000" unicode="&#x256a;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="SF530000" unicode="&#x256b;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="SF440000" unicode="&#x256c;" 
+d="M399 360v-280l-40 -40l-40 40v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni256D" unicode="&#x256d;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40z" />
+    <glyph glyph-name="uni256E" unicode="&#x256e;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40z" />
+    <glyph glyph-name="uni256F" unicode="&#x256f;" 
+d="M359 400l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280z" />
+    <glyph glyph-name="uni2570" unicode="&#x2570;" 
+d="M79 440v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2571" unicode="&#x2571;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni2572" unicode="&#x2572;" 
+d="M519 80l-120 200v80h40l120 -200v-80h-40zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni2573" unicode="&#x2573;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni2574" unicode="&#x2574;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2575" unicode="&#x2575;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni2576" unicode="&#x2576;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2577" unicode="&#x2577;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni2578" unicode="&#x2578;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni2579" unicode="&#x2579;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni257A" unicode="&#x257a;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni257B" unicode="&#x257b;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni257C" unicode="&#x257c;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni257D" unicode="&#x257d;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni257E" unicode="&#x257e;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni257F" unicode="&#x257f;" 
+d="M319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="block" unicode="&#x2588;" 
+d="M79 80v280l40 40l-40 40v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM559 360h-120l120 -200v200zM559 440v200l-120 -200h120zM159 360v-200l120 200h-120zM159 440h120l-120 200v-200zM319 280l-120 -200h120v200z
+M399 280v-200h120zM399 720v-200l120 200h-120zM319 720h-120l120 -200v200z" />
+    <glyph glyph-name="uni3098" unicode="&#x3098;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848
+s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098z" />
+    <glyph glyph-name="uni3099" unicode="&#x3099;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904z" />
+    <glyph glyph-name="uni309A" unicode="&#x309a;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098z" />
+    <glyph glyph-name="uni309B" unicode="&#x309b;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904z" />
+    <glyph glyph-name="uni309C" unicode="&#x309c;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098z" />
+    <glyph glyph-name="uni30A1" unicode="&#x30a1;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30A2" unicode="&#x30a2;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30A3" unicode="&#x30a3;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni30A4" unicode="&#x30a4;" 
+d="M159 440h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni30A5" unicode="&#x30a5;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160z" />
+    <glyph glyph-name="uni30A6" unicode="&#x30a6;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160z" />
+    <glyph glyph-name="uni30A7" unicode="&#x30a7;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni30A8" unicode="&#x30a8;" 
+d="M559 800l40 -40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni30A9" unicode="&#x30a9;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni30AA" unicode="&#x30aa;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni30AB" unicode="&#x30ab;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40v-80z" />
+    <glyph glyph-name="uni30AC" unicode="&#x30ac;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160
+l-40 40l-40 -40v-80z" />
+    <glyph glyph-name="uni30AD" unicode="&#x30ad;" 
+d="M399 360v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160z" />
+    <glyph glyph-name="uni30AE" unicode="&#x30ae;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM399 360v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280h-160l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40
+l-40 -40h-160z" />
+    <glyph glyph-name="uni30AF" unicode="&#x30af;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30B0" unicode="&#x30b0;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l-40 40v280l40 40l40 40h400z
+M199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30B1" unicode="&#x30b1;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40z" />
+    <glyph glyph-name="uni30B2" unicode="&#x30b2;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40z" />
+    <glyph glyph-name="uni30B3" unicode="&#x30b3;" 
+d="M599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni30B4" unicode="&#x30b4;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280zM599 400l-40 40v280h-160l-40 40
+l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280z" />
+    <glyph glyph-name="uni30B5" unicode="&#x30b5;" 
+d="M79 440v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="uni30B6" unicode="&#x30b6;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM79 440v280l40 40l40 -40v-280h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40l-40 -40v-80l-120 -200h-40v80
+l120 200h-120l-40 40z" />
+    <glyph glyph-name="uni30B7" unicode="&#x30b7;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30B8" unicode="&#x30b8;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 440v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z
+M79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30B9" unicode="&#x30b9;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30BA" unicode="&#x30ba;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200
+h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30BB" unicode="&#x30bb;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni30BC" unicode="&#x30bc;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160v-280l-40 -40l40 -40v-280h160l40 -40
+l40 40h160l40 -40l-40 -40h-400l-40 40l-40 40v280l40 40l-40 40v280l40 40l40 40h400z" />
+    <glyph glyph-name="uni30BD" unicode="&#x30bd;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30BE" unicode="&#x30be;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40z
+M79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30BF" unicode="&#x30bf;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30C0" unicode="&#x30c0;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40
+l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30C1" unicode="&#x30c1;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l40 40h160v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni30C2" unicode="&#x30c2;" 
+d="M714.34 706.288l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM714.34 607.062l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-160l-40 40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40
+l40 40h160v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni30C3" unicode="&#x30c3;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30C4" unicode="&#x30c4;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30C5" unicode="&#x30c5;" 
+d="M754.34 666.288l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM754.34 567.062l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280l40 40z
+M79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30C6" unicode="&#x30c6;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="uni30C7" unicode="&#x30c7;" 
+d="M714.34 706.288l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM714.34 607.062l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-160l-40 40zM159 440
+h160l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40z" />
+    <glyph glyph-name="uni30C8" unicode="&#x30c8;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni30C9" unicode="&#x30c9;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM399 440h160l40 -40l-40 -40h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280
+l-40 -40z" />
+    <glyph glyph-name="uni30CA" unicode="&#x30ca;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160l-40 40l-40 -40v-80z" />
+    <glyph glyph-name="uni30CB" unicode="&#x30cb;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni30CC" unicode="&#x30cc;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h120l40 -40l-40 -40h-160l-40 40l40 40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h-120l-40 40l40 40h160l40 -40l-40 -40v-80z" />
+    <glyph glyph-name="uni30CD" unicode="&#x30cd;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280l-40 -40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200z" />
+    <glyph glyph-name="uni30CE" unicode="&#x30ce;" 
+d="M199 80h-40v80l120 200h40v-80zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni30CF" unicode="&#x30cf;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30D0" unicode="&#x30d0;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z
+" />
+    <glyph glyph-name="uni30D1" unicode="&#x30d1;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30D2" unicode="&#x30d2;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="uni30D3" unicode="&#x30d3;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM399 440h160l40 -40l-40 -40h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160
+l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40z" />
+    <glyph glyph-name="uni30D4" unicode="&#x30d4;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098zM399 440h160l40 -40l-40 -40h-160l-40 40zM79 80v280l40 40l-40 40v280l40 40l40 -40v-280h160l40 -40l-40 -40h-160v-280h160l40 -40l40 40h160l40 -40l-40 -40
+h-400l-40 40z" />
+    <glyph glyph-name="uni30D5" unicode="&#x30d5;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30D6" unicode="&#x30d6;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200
+h40v-80z" />
+    <glyph glyph-name="uni30D7" unicode="&#x30d7;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30D8" unicode="&#x30d8;" 
+d="M79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30D9" unicode="&#x30d9;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80
+l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30DA" unicode="&#x30da;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40h40l120 -200v-80h-40l-120 200v-200l-40 -40zM519 80l-120 200v80h40l120 -200v-80h-40z" />
+    <glyph glyph-name="uni30DB" unicode="&#x30db;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200l-120 -200h-40v80l120 200h-120l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni30DC" unicode="&#x30dc;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-120l120 -200v-80h-40
+l-120 200v-200l-40 -40l-40 40v200l-120 -200h-40v80l120 200h-120l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni30DD" unicode="&#x30dd;" 
+d="M643.56 455c0 50.8301 15.96 91.8848 35.7207 91.8848c19.7598 0 35.7197 -41.0547 35.7197 -91.8848s-15.96 -91.8848 -35.7197 -91.8848c-19.7607 0 -35.7207 41.0547 -35.7207 91.8848zM662.18 455c0 -24.4375 7.60059 -43.0098 17.1006 -43.0098
+s16.7197 18.5723 16.7197 43.0098s-7.21973 43.0098 -16.7197 43.0098s-17.1006 -18.5723 -17.1006 -43.0098zM559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v-200l-40 -40l-40 40v200
+l-120 -200h-40v80l120 200h-120l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni30DE" unicode="&#x30de;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30DF" unicode="&#x30df;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40zM399 80h160l40 -40l-40 -40h-400l-40 40l40 40h160l40 -40z" />
+    <glyph glyph-name="uni30E0" unicode="&#x30e0;" 
+d="M319 440v280l40 40l40 -40v-280l-40 -40zM199 80h120l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40v80l120 200h40v-80z" />
+    <glyph glyph-name="uni30E1" unicode="&#x30e1;" 
+d="M199 80h-40v80l120 200h40v-80zM519 80l-120 200v80h40l120 -200v-80h-40zM519 720h40v-80l-120 -200h-40v80zM199 720l120 -200v-80h-40l-120 200v80h40z" />
+    <glyph glyph-name="uni30E2" unicode="&#x30e2;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-120l120 -200v-80h-40l-120 200v80l-40 40l-40 -40h-160l-40 40l40 40h160v280h-160l-40 40l40 40h400z" />
+    <glyph glyph-name="uni30E3" unicode="&#x30e3;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400zM399 720v-200l120 200h-120z" />
+    <glyph glyph-name="uni30E4" unicode="&#x30e4;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40l-40 -40l40 -40v-280l-40 -40l-40 40v280l40 40l-40 40v280h-160l-40 40l40 40h400zM399 720v-200l120 200h-120z" />
+    <glyph glyph-name="uni30E5" unicode="&#x30e5;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM319 80v280l40 40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160z" />
+    <glyph glyph-name="uni30E6" unicode="&#x30e6;" 
+d="M199 720l120 -200v-80h-40l-120 200v80h40zM319 80v280l40 40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160z" />
+    <glyph glyph-name="uni30E7" unicode="&#x30e7;" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni30E8" unicode="&#x30e8;" 
+d="M159 440h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40h400l40 -40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni30E9" unicode="&#x30e9;" 
+d="M559 800l40 -40l-40 -40h-160l-40 40l-40 -40h-160l-40 40l40 40h400zM399 440h160l40 -40l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="uni30EA" unicode="&#x30ea;" 
+d="M79 440v280l40 40l40 -40v-280l-40 -40zM319 80v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30EB" unicode="&#x30eb;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40l40 -40v-280l-40 -40l-40 40h-40l-120 200v80h40l120 -200v200l40 40zM79 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM319 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30EC" unicode="&#x30ec;" 
+d="M79 80v280l40 40l40 -40v-200l120 200h40v-80l-120 -200h-40l-40 -40zM79 440v280l40 40l40 -40v-280l-40 -40zM519 720h40v-80l-120 -200h-40v80z" />
+    <glyph glyph-name="uni30ED" unicode="&#x30ed;" 
+d="M79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160v280l40 40l40 -40v-280l-40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni30EE" unicode="&#x30ee;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni30EF" unicode="&#x30ef;" 
+d="M559 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni30F0" unicode="&#x30f0;" 
+d="M559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l-40 40v280l40 40l40 40h400zM159 440h160v280h-160v-280z" />
+    <glyph glyph-name="uni30F1" unicode="&#x30f1;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40l-40 40v280h-160l-40 40l40 40h400zM399 720v-200l120 200h-120z" />
+    <glyph glyph-name="uni30F2" unicode="&#x30f2;" 
+d="M559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200h-120l-40 40l40 40h160l40 -40l-40 -40v-80z" />
+    <glyph glyph-name="uni30F3" unicode="&#x30f3;" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40zM79 80v280l40 40l40 -40v-280h160l40 -40l40 40h160l40 -40l-40 -40h-400l-40 40zM79 440v280l40 40l40 -40v-280l-40 -40z" />
+    <glyph glyph-name="uni30F4" unicode="&#x30f4;" 
+d="M715.88 666.288l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 567.062l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM599 400l40 -40v-280l-40 -40l-40 -40h-400l-40 40l40 40h160l40 -40l40 40h160v280h-160l-40 40l-40 -40h-160l-40 40l40 40
+h160v280l40 40l40 -40v-280h160z" />
+    <glyph glyph-name="uni30F5" unicode="&#x30f5;" 
+d="M199 80h-40v80l120 200h-120l-40 40l40 40h160v280l40 40l40 -40v-280h160l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40l-40 -40v-80z" />
+    <glyph glyph-name="uni30F6" unicode="&#x30f6;" 
+d="M399 440h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l-40 40v280l40 40l40 -40v-280h160l40 -40z" />
+    <glyph glyph-name="uni30F7" unicode="&#x30f7;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 80v280l40 40l40 -40v-280l-40 -40zM79 440v280l40 40l40 40h400l40 -40l40 -40v-280l-40 -40l-40 40v280h-160l-40 40
+l-40 -40h-160v-280l-40 -40z" />
+    <glyph glyph-name="uni30F8" unicode="&#x30f8;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40h-160v-280h160l40 -40l-40 -40h-160v-280l-40 -40l-40 40v280h-160l-40 40l-40 40v280l40 40l40 40
+h400zM159 440h160v280h-160v-280z" />
+    <glyph glyph-name="uni30F9" unicode="&#x30f9;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40l-40 -40l40 -40v-280h160l40 -40l-40 -40h-400l-40 40l40 40h160v280l40 40
+l-40 40v280h-160l-40 40l40 40h400zM399 720v-200l120 200h-120z" />
+    <glyph glyph-name="uni30FA" unicode="&#x30fa;" 
+d="M715.88 705.695l-19.4395 -39.6904l-45.9004 93.7129l19.4404 39.6895zM715.88 606.47l-19.4395 -39.6895l-45.9004 93.7119l19.4404 39.6904zM559 800l40 -40l-40 -40v-80l-120 -200h-40v80l120 200h-120l-40 40l-40 -40h-160l-40 40l40 40h400zM199 80h-40v80l120 200
+h-120l-40 40l40 40h160l40 -40l-40 -40v-80z" />
+    <glyph glyph-name="uni30FC" unicode="&#x30fc;" 
+d="M399 440h160l40 -40l-40 -40h-160l-40 40zM159 440h160l40 -40l-40 -40h-160l-40 40z" />
+    <glyph glyph-name="tilde.alt" 
+d="M599 1066v74v-74zM599 1140v-74l-160 -104v74l-160 104v-74l-160 -104v74l160 104v-74l160 -104v74z" />
+    <glyph glyph-name="grave.alt" 
+d="M519 816v74l-160 104v-74z" />
+    <glyph glyph-name="colon.alt" 
+d="M559 440v280l40 40l40 -40v-280l-40 -40zM319 80v280l40 40l40 -40v-280l-40 -40z" />
+  </font>
+</defs></svg>

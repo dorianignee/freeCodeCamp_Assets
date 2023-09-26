@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp_Challenges/drum-machine/static/css/main.d25ba215.css",
+    "main.js": "/freeCodeCamp_Challenges/drum-machine/static/js/main.bc23b87f.js",
+    "static/media/LCD-Display-14-Segment.ttf.svg": "/freeCodeCamp_Challenges/drum-machine/static/media/LCD-Display-14-Segment.ttf.f02075b2b3773f2f98ca.svg",
+    "static/media/LCD-Display-14-Segment.ttf.eot": "/freeCodeCamp_Challenges/drum-machine/static/media/LCD-Display-14-Segment.ttf.57c981dbafcc3254b383.eot",
+    "static/media/LCD-Display-14-Segment.ttf.woff": "/freeCodeCamp_Challenges/drum-machine/static/media/LCD-Display-14-Segment.ttf.f75a17328699a576e8ef.woff",
+    "index.html": "/freeCodeCamp_Challenges/drum-machine/index.html",
+    "main.d25ba215.css.map": "/freeCodeCamp_Challenges/drum-machine/static/css/main.d25ba215.css.map",
+    "main.bc23b87f.js.map": "/freeCodeCamp_Challenges/drum-machine/static/js/main.bc23b87f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25ba215.css",
+    "static/js/main.bc23b87f.js"
+  ]
+}
