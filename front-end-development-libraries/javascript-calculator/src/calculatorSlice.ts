@@ -161,12 +161,20 @@ const infixOperation = (state: CalculatorState, nextOperator: string) => {
     return;
   }
 
+  // test for division by 0 
+  if (state.operator === "/" && state.value === 0) {
+    showError(state);
+    return;
+  }
+
   if (state.operator === "=") {
     state.formula = "(" + state.value + ")";   
   } else {
     state.formula += state.operator + "(" + state.value + ")";
   }
   
+  // eval can be harmful. In this case, eval only processes the internal formula
+  // eslint-disable-next-line
   state.value = eval(state.formula);
   state.operator = nextOperator;
   prepareNewNumber(state);
