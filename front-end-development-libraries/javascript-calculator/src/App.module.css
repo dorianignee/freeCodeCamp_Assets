@@ -117,6 +117,11 @@ body {
     font-size: .5em;
 }
 
+a {
+    color: unset;
+    text-decoration: none;
+}
+
 .brandSub {
     grid-row: 2;
     margin-top: -3px;
