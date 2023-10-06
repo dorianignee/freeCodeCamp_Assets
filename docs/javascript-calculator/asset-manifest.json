@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp_Challenges/javascript-calculator/static/css/main.2273048b.css",
+    "main.js": "/freeCodeCamp_Challenges/javascript-calculator/static/js/main.bb90fc9e.js",
+    "static/media/DSEG7ClassicMini-Italic.ttf": "/freeCodeCamp_Challenges/javascript-calculator/static/media/DSEG7ClassicMini-Italic.a868150fd7e8935e1243.ttf",
+    "static/media/DSEG7ClassicMini-Italic.woff": "/freeCodeCamp_Challenges/javascript-calculator/static/media/DSEG7ClassicMini-Italic.b78a4c74ad3b404661eb.woff",
+    "static/media/DSEG7ClassicMini-Italic.woff2": "/freeCodeCamp_Challenges/javascript-calculator/static/media/DSEG7ClassicMini-Italic.091af553f51700e1290d.woff2",
+    "index.html": "/freeCodeCamp_Challenges/javascript-calculator/index.html",
+    "main.2273048b.css.map": "/freeCodeCamp_Challenges/javascript-calculator/static/css/main.2273048b.css.map",
+    "main.bb90fc9e.js.map": "/freeCodeCamp_Challenges/javascript-calculator/static/js/main.bb90fc9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2273048b.css",
+    "static/js/main.bb90fc9e.js"
+  ]
+}
