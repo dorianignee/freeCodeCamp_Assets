@@ -68,7 +68,7 @@ app.post("/api/users/:_id/exercises", (req, res, next) => {
       res.json({
         "username": updatedUser.username,
         "description": req.body.description,
-        "duration": req.body.duration,
+        "duration": Number(req.body.duration),
         "date": date.toDateString(),
         "_id": updatedUser._id
       })
