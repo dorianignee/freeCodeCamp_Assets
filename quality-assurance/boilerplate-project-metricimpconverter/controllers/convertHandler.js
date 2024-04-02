@@ -37,7 +37,7 @@ function ConvertHandler() {
       "kg": "kilograms"
     }
 
-    return spellOut[initUnit];
+    return spellOut[unit];
   };
   
   this.convert = function(initNum, initUnit) {

@@ -7,8 +7,8 @@ module.exports = function (app) {
   
   let convertHandler = new ConvertHandler();
 
-  app.get('api/convert', (req, res) => {
-    if (!req.query.contains("input")) return res.status(400).send("Missing required field 'input'");
+  app.get('/api/convert', (req, res) => {
+    if (!req.query.input) return res.status(400).send("Missing required field 'input'");
 
     // try to read number and unit
     let initNum;
