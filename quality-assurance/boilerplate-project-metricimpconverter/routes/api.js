@@ -22,11 +22,11 @@ module.exports = function (app) {
     try {
       initUnit = convertHandler.getUnit(req.query.input)
     } catch (e) {
-      if (isNaN(initNum)) return res.status(400).send("Invalid number and unit");
-      else return res.status(400).send("Invalid unit");
+      if (isNaN(initNum)) return res.send("invalid number and unit"); // fcc tests are not passing with status 400
+      else return res.send("invalid unit"); // fcc tests are not passing with status 400
     }
 
-    if (isNaN(initNum)) return res.status(400).send("Invalid number");
+    if (isNaN(initNum)) return res.send("invalid number"); // fcc tests are not passing with status 400
 
     // convert and send result
     const returnUnit = convertHandler.getReturnUnit(initUnit);

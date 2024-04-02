@@ -32,8 +32,8 @@ suite('Functional Tests', function() {
       .request(server)
       .get('/api/convert?input=32g')
       .end((err, res) => {
-        assert.notEqual(res.status, 200);
-        assert.equal(res.text, "Invalid unit");
+        // assert.notEqual(res.status, 200); // fcc tests are not passing with status 400
+        assert.equal(res.text, "invalid unit");
 
         done();
       });
@@ -44,8 +44,8 @@ suite('Functional Tests', function() {
       .request(server)
       .get('/api/convert?input=3/7.2/4kg')
       .end((err, res) => {
-        assert.notEqual(res.status, 200);
-        assert.equal(res.text, "Invalid number");
+        // assert.notEqual(res.status, 200); // fcc tests are not passing with status 400
+        assert.equal(res.text, "invalid number");
 
         done();
       });
@@ -56,8 +56,8 @@ suite('Functional Tests', function() {
       .request(server)
       .get('/api/convert?input=3/7.2/4kilomegagram')
       .end((err, res) => {
-        assert.notEqual(res.status, 200);
-        assert.equal(res.text, "Invalid number and unit");
+        // assert.notEqual(res.status, 200); // fcc tests are not passing with status 400
+        assert.equal(res.text, "invalid number and unit");
 
         done();
       });

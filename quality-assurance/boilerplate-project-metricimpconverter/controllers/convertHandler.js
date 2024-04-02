@@ -73,10 +73,12 @@ function ConvertHandler() {
     }
 
     const convert = calculation[initUnit];
+
+    const result = convert.multiply
+        ? initNum * convert.factor
+        : initNum / convert.factor;
     
-    return convert.multiply
-         ? initNum * convert.factor
-         : initNum / convert.factor;
+    return round5(result);
   };
   
   this.getString = function(initNum, initUnit, returnNum, returnUnit) {
@@ -84,5 +86,7 @@ function ConvertHandler() {
   };
   
 }
+
+const round5 = number => Math.round(number*100000)/100000
 
 module.exports = ConvertHandler;
