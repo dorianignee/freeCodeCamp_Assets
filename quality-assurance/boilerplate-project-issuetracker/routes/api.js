@@ -10,9 +10,9 @@ const issueSchema = new mongoose.Schema({
   issue_title: { type: String, required: true },
   issue_text: { type: String, required: true },
   created_by: { type: String, required: true },
-  assigned_to: String,
+  assigned_to: { type:  String, default: "" },
   open: { type: Boolean, default: true },
-  status_text: String,
+  status_text: { type:  String, default: "" },
   project: { type: mongoose.Schema.Types.ObjectId, ref: 'Project', required: true }
 }, { 
   timestamps: {
@@ -44,14 +44,18 @@ module.exports = function (app) {
     
       Project
         .findOne({name: project})
-        .populate('issues')
         .then(found => {
           if (!found) return res.json([]);
-            
-          res.json(found.issues)
+
+          req.query.project = found._id;
+
+          Issue
+            .find(req.query)
+            .then(issues => res.json(issues))
+            .catch(() => res.json([]));
         })
         .catch(err => {
-          res.json({error: err, task: 'project.get'});
+          res.json({error: err, task: 'project.get'}); // shouldn't happen
         });
     })
     
@@ -75,21 +79,24 @@ module.exports = function (app) {
           });
 
           issue
-            .save()
-            .then(saved => res.json({data: saved}))
-            .catch(err => res.json({error: err, task: 'issue.save'}));
+            .save() // TODO: What happens on missing required fields?
+            .then(saved => res.json(saved))
+            .catch(() => res.json({error: 'could not insert'}));
         })
-        .catch(err => res.json({error: err, task: 'project.upsert'}));
+        .catch(() => res.json({error: 'could not insert'}));
     })
     
     .put(function (req, res){
       let project = req.params.project;
+      let id = req.body._id
+
+      if (!id) return res.json({"error": 'missing _id'});
 
       Issue
-        .findOne({ _id: req.body._id })
+        .findOne({ _id: id })
         .populate('project')
         .then(issue => {
-          if (issue.project.name !== project) return res.json({"error": "issue not found in project", "task": "issue.update"});
+          if (issue.project.name !== project) return res.json({"error": "could not update", _id: id });
 
           if (req.body.issue_title && req.body.issue_title !== "") issue.issue_title = req.body.issue_title;
           if (req.body.issue_text && req.body.issue_text !== "") issue.issue_text = req.body.issue_text;
@@ -98,27 +105,32 @@ module.exports = function (app) {
           if (req.body.status_text && req.body.status_text !== "") issue.status_text = req.body.status_text;
           issue.open = req.body.open ? false: true; // if not checked, the value isn't posted
 
+          console.log(issue.getChanges()) // TODO: What happens when nothing is changed
           issue
             .save()
-            .then(issue => res.json({status: 'successfully updated issue', id: issue._id }))
-            .catch(err => res.json({error: err, task: "issue.update"}));
+            .then(issue => res.json({status: 'successfully updated', _id: id }))
+            .catch(() => res.json({error: "could not update", _id: id }));
         })
-        .catch(err => res.json({error: err, task: 'issue.update'}));
+        .catch(() => res.json({error: "could not update", _id: id }));
     })
     
     .delete(function (req, res){
       let project = req.params.project;
+      let id = req.body._id
+
+      if (!id) return res.json({"error": 'missing _id'});
+
       Issue
-        .findOne({ _id: req.body._id })
+        .findOne({ _id: id })
         .populate('project')
         .then(issue => {
-          if (issue.project.name !== project) return res.json({"error": "issue not found in project", "task": "issue.delete"});
+          if (issue.project.name !== project) return res.json({"error": "could not delete", _id: id});
           issue
             .deleteOne()
-            .then(issue => res.json({status: 'successfully deleted issue', id: issue._id }))
-            .catch(err => res.json({error: err, task: 'issue.delete'}));
+            .then(issue => res.json({status: 'successfully deleted', _id: issue._id }))
+            .catch(err => res.json({"error": "could not delete", _id: id}));
         })
-        .catch(err => res.json({error: err, task: 'issue.delete'}));
+        .catch(err => res.json({"error": "could not delete", _id: id}));
     });
     
 };
