@@ -52,7 +52,8 @@ module.exports = function (app) {
           Issue
             .find(req.query)
             .then(issues => res.json(issues))
-            .catch(() => res.json([]));
+            .catch(err => res.json(err));
+            //.catch(() => res.json([]));
         })
         .catch(err => {
           res.json({error: err, task: 'project.get'}); // shouldn't happen
@@ -79,9 +80,13 @@ module.exports = function (app) {
           });
 
           issue
-            .save() // TODO: What happens on missing required fields?
+            .save() 
             .then(saved => res.json(saved))
-            .catch(() => res.json({error: 'could not insert'}));
+            .catch(err => {
+              if (err.message.includes("required"))
+                return res.json({'error': 'required field(s) missing' });
+              res.json({ 'error': 'could not insert' });
+            });
         })
         .catch(() => res.json({error: 'could not insert'}));
     })
@@ -105,13 +110,15 @@ module.exports = function (app) {
           if (req.body.status_text && req.body.status_text !== "") issue.status_text = req.body.status_text;
           issue.open = req.body.open ? false: true; // if not checked, the value isn't posted
 
-          console.log(issue.getChanges()) // TODO: What happens when nothing is changed
+          if (Object.keys(issue.getChanges()).length === 0) 
+            return res.json({ 'error': 'no update field(s) sent', '_id': id });
+
           issue
             .save()
-            .then(issue => res.json({status: 'successfully updated', _id: id }))
-            .catch(() => res.json({error: "could not update", _id: id }));
+            .then(issue => res.json({'result': 'successfully updated', _id: id }))
+            .catch(() => res.json({'error': 'could not update', '_id': id }));
         })
-        .catch(() => res.json({error: "could not update", _id: id }));
+        .catch(() => res.json({'error': 'could not update', '_id': id }));
     })
     
     .delete(function (req, res){
@@ -127,10 +134,10 @@ module.exports = function (app) {
           if (issue.project.name !== project) return res.json({"error": "could not delete", _id: id});
           issue
             .deleteOne()
-            .then(issue => res.json({status: 'successfully deleted', _id: issue._id }))
-            .catch(err => res.json({"error": "could not delete", _id: id}));
+            .then(issue => res.json({'result': 'successfully deleted', _id: id }))
+            .catch(err => res.json({'error': 'could not delete', '_id': id }));
         })
-        .catch(err => res.json({"error": "could not delete", _id: id}));
+        .catch(err => res.json({'error': 'could not delete', '_id': id }));
     });
     
 };

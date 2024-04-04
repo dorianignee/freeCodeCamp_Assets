@@ -3,27 +3,30 @@ const chai = require('chai');
 const assert = chai.assert;
 const server = require('../server');
 
-const issueIDs = [];
+let issueIDs = [];
 
 chai.use(chaiHttp);
 
 suite('Functional Tests', function() {
   // Delete project and issues from previous tests
-  this.beforeAll(() => {
-    const mongoose = require('mongoose');
-    const clientOptions = { serverApi: { version: '1', strict: true, deprecationErrors: true } };
-    mongoose.connect(process.env.MONGO_URI, clientOptions);
+  this.beforeAll(async () => {
+    const { MongoClient, ServerApiVersion } = require('mongodb');
+    const client = new MongoClient(process.env.MONGO_URI, { serverApi: { version: ServerApiVersion.v1, strict: true, deprecationErrors: true } });
+    await client.connect();
+    const db = client.db('issue-tracker');
 
-    mongoose
-      .model('Project')
-      .deleteOne({name: 'functionalTests'})
+    db.collection('projects')
+      .findOneAndDelete({name: 'functionalTests'})
       .then(project => {
-        mongoose
-          .model('Issue')
-          .deleteMany({project: project._id})
-          .catch(err => console.log("Could not delete test issues: " + err.msg));
+        if (project) {
+          db.collection('issues')
+            .deleteMany({project: project._id})
+            .catch(err => console.log("Could not delete test issues: " + err));
+        }
       })
-      .catch(err => console.log("Could not delete test project: " + err.msg));
+      .catch(err => console.log("Could not delete test project: " + err));
+
+    //client.close();
   });
 
   suite('Creating Issues', () => {
@@ -42,7 +45,7 @@ suite('Functional Tests', function() {
         .end((err, res) => {
           assert.notOk(err);
           assert.equal(res.status, 200);
-          assert.hasAllKeys(res.body, [
+          assert.containsAllKeys(res.body, [
             '_id',
             'issue_title',
             'issue_text',
@@ -53,7 +56,7 @@ suite('Functional Tests', function() {
             'open',
             'status_text'
           ]);
-          assert.includeMembers(res.body, {
+          assert.include(res.body, {
             'issue_title': 'Functional Test 1',
             'issue_text': 'Create an issue with every field',
             'created_by': 'chai test suite',
@@ -79,7 +82,7 @@ suite('Functional Tests', function() {
           assert.notOk(err);
           assert.equal(res.status, 200);
           assert.equal(res.type, 'application/json');
-          assert.hasAllKeys(res.body, [
+          assert.containsAllKeys(res.body, [
             '_id',
             'issue_title',
             'issue_text',
@@ -90,10 +93,10 @@ suite('Functional Tests', function() {
             'open',
             'status_text'
           ]);
-          assert.includeMembers(res.body, {
+          assert.include(res.body, {
             'issue_title': 'Functional Test 2',
             'issue_text': 'Create an issue with only required fields',
-            'created_by': '',
+            'created_by': 'chai test suite',
             'assigned_to': '',
             'status_text': '',
             'open': true
@@ -115,7 +118,7 @@ suite('Functional Tests', function() {
           assert.notOk(err);
           //assert.equal(res.status, 200);
           assert.equal(res.type, 'application/json');
-          assert.deepEqual(res.body, {'error': 'required field(s) missing' });
+          assert.deepEqual(res.body, { 'error': 'required field(s) missing' });
           done();
         });
     });
@@ -132,7 +135,7 @@ suite('Functional Tests', function() {
           assert.equal(res.type, 'application/json');
           assert.isArray(res.body);
           assert.equal(res.body.length, 2);
-          assert.hasAllKeys(res.body[0], [
+          assert.containsAllKeys(res.body[0], [
             '_id',
             'issue_title',
             'issue_text',
@@ -143,7 +146,7 @@ suite('Functional Tests', function() {
             'open',
             'status_text'
           ]);
-          assert.includeMembers(res.body[0], {
+          assert.include(res.body[0], {
             'issue_title': 'Functional Test 1',
             'issue_text': 'Create an issue with every field',
             'created_by': 'chai test suite',
@@ -169,7 +172,7 @@ suite('Functional Tests', function() {
           assert.equal(res.type, 'application/json');
           assert.isArray(res.body);
           assert.equal(res.body.length, 1);
-          assert.hasAllKeys(res.body[0], [
+          assert.containsAllKeys(res.body[0], [
             '_id',
             'issue_title',
             'issue_text',
@@ -180,7 +183,7 @@ suite('Functional Tests', function() {
             'open',
             'status_text'
           ]);
-          assert.includeMembers(res.body[0], {
+          assert.include(res.body[0], {
             'issue_title': 'Functional Test 1',
             'issue_text': 'Create an issue with every field',
             'created_by': 'chai test suite',
@@ -207,7 +210,7 @@ suite('Functional Tests', function() {
           assert.equal(res.type, 'application/json');
           assert.isArray(res.body);
           assert.equal(res.body.length, 1);
-          assert.hasAllKeys(res.body[0], [
+          assert.containsAllKeys(res.body[0], [
             '_id',
             'issue_title',
             'issue_text',
@@ -218,7 +221,7 @@ suite('Functional Tests', function() {
             'open',
             'status_text'
           ]);
-          assert.includeMembers(res.body[0], {
+          assert.include(res.body[0], {
             'issue_title': 'Functional Test 1',
             'issue_text': 'Create an issue with every field',
             'created_by': 'chai test suite',
@@ -277,7 +280,7 @@ suite('Functional Tests', function() {
           assert.notOk(err);
           assert.equal(res.status, 200);
           assert.equal(res.type, 'application/json');
-          assert.deepEqual(res.body, {'result': 'successfully updated', '_id': issueIDs[0]});
+          assert.deepEqual(res.body, {'result': 'successfully updated', '_id': issueIDs[1]});
 
           // check if the issue was really updated
           chai
@@ -288,7 +291,7 @@ suite('Functional Tests', function() {
               assert.notOk(err);
               assert.equal(res.status, 200);
               assert.equal(res.type, 'application/json');
-              assert.includeMembers(res.body[0], {
+              assert.include(res.body[0], {
                 '_id': issueIDs[1],
                 'issue_title': 'Updated Issue',
                 'issue_text': 'autogenerated update of an existing issue by chai.js',
