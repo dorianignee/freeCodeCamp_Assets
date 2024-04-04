@@ -97,6 +97,9 @@ module.exports = function (app) {
 
       if (!id) return res.json({"error": 'missing _id'});
 
+      // respond 'no update field(s) sent' even for invalid ids
+      if (Object.keys(req.body).length === 1) return res.json({ 'error': 'no update field(s) sent', '_id': id });
+
       Issue
         .findOne({ _id: id })
         .populate('project')
